@@ -1,0 +1,8 @@
+Line 28: Class ComctlLib.StatusBar of control SBMain was not a loaded control class.
+Line 249: Class ComctlLib.ProgressBar of control PBMain was not a loaded control class.
+Line 261: Class ComctlLib.ListView of control LVDirFileScan was not a loaded control class.
+Line 312: Class ComctlLib.ListView of control LVProc was not a loaded control class.
+Line 357: Class ComctlLib.ListView of control LVDBViri was not a loaded control class.
+Line 394: Class ComctlLib.ListView of control LVModule was not a loaded control class.
+Line 447: Class ComctlLib.TabStrip of control TabMain was not a loaded control class.
+Line 513: Class ComctlLib.ImageList of control ImgSmall was not a loaded control class.

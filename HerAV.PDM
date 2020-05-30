@@ -1,0 +1,208 @@
+[Root]
+Most Recent Package=HerAV AntiVirus 1.3
+
+
+[Package|HerAV AntiVirus 1.1|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=D:\Project\SC HerAV\HerAV 1.1
+
+[Package|HerAV AntiVirus 1.1|Configure DAO ISAMs]
+Applicable=No
+
+[Package|HerAV AntiVirus 1.1|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|HerAV AntiVirus 1.1|Files Found]
+
+[Package|HerAV AntiVirus 1.1|Files Released]
+
+[Package|HerAV AntiVirus 1.1|Missing Dependency Information]
+C:\WINDOWS\system32\psapi.dll=
+C:\WINDOWS\system32\shlwapi.dll=
+
+[Package|HerAV AntiVirus 1.1|Out-of-Date Dependency Information]
+
+[Package|HerAV AntiVirus 1.1|Files Added]
+D:\Project\Readme.txt=
+
+[Package|HerAV AntiVirus 1.1|Files Removed]
+
+[Package|HerAV AntiVirus 1.1|Files In Project]
+D:\Project\HerAV 1.1.exe=Yes
+C:\WINDOWS\system32\msvbvm60.dll=Yes
+C:\WINDOWS\system32\oleaut32.dll=Yes
+C:\WINDOWS\system32\olepro32.dll=Yes
+C:\WINDOWS\system32\asycfilt.dll=Yes
+C:\WINDOWS\system32\stdole2.tlb=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\system32\shlwapi.dll=Yes
+C:\WINDOWS\system32\psapi.dll=Yes
+C:\WINDOWS\system32\COMCTL32.OCX=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\system32\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+D:\Project\Readme.txt=Yes
+
+[Package|HerAV AntiVirus 1.1|Configure Registry Files]
+Applicable=No
+
+[Package|HerAV AntiVirus 1.1|Configure Remote Servers]
+Applicable=No
+
+[Package|HerAV AntiVirus 1.1|Install Locations]
+D:\Project\HerAV 1.1.exe=$(AppPath)
+C:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\oleaut32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\olepro32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\asycfilt.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\stdole2.tlb=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\shlwapi.dll=$(WinSysPath)
+C:\WINDOWS\system32\psapi.dll=$(WinSysPath)
+C:\WINDOWS\system32\COMCTL32.OCX=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+D:\Project\Readme.txt=$(AppPath)
+
+[Package|HerAV AntiVirus 1.1|Configure Shared Files]
+Applicable=Yes
+D:\Project\HerAV 1.1.exe=No
+D:\Project\Readme.txt=No
+
+[Package|HerAV AntiVirus 1.1|Distribution]
+Type=single
+Size=
+Title=HerAV AntiVirus 1.1
+
+[Package|HerAV AntiVirus 1.1|IconGroups]
+Group0=HerAV AntiVirus 1.1
+PrivateGroup0=True
+Parent0=$(Programs)
+
+[Package|HerAV AntiVirus 1.1|HerAV AntiVirus 1.1]
+Icon1="HerAV 1.1.exe"
+Title1=HerAV AntiVirus 1.1
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|HerAV AntiVirus 1.1|Package]
+PackageFolder=D:\Project\SC HerAV\HerAV 1.1
+ProjectFolder=D:\Project\SC HerAV
+ServerSideCab=
+File1=D:\Project\SC HerAV\HerAV 1.1\setup.exe
+File2=D:\Project\SC HerAV\HerAV 1.1\Setup.Lst
+File3=D:\Project\SC HerAV\HerAV 1.1\HerAV 1.1.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|HerAV AntiVirus 1.3|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=D:\Project HerAV\New Folder
+
+[Package|HerAV AntiVirus 1.3|Configure DAO ISAMs]
+Applicable=No
+
+[Package|HerAV AntiVirus 1.3|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|HerAV AntiVirus 1.3|Files Found]
+Readme.txt=D:\Project HerAV\Readme.txt
+
+[Package|HerAV AntiVirus 1.3|Files Released]
+
+[Package|HerAV AntiVirus 1.3|Missing Dependency Information]
+C:\WINDOWS\system32\psapi.dll=
+C:\WINDOWS\system32\shlwapi.dll=
+
+[Package|HerAV AntiVirus 1.3|Out-of-Date Dependency Information]
+
+[Package|HerAV AntiVirus 1.3|Files Added]
+readme.txt=
+
+[Package|HerAV AntiVirus 1.3|Files Removed]
+
+[Package|HerAV AntiVirus 1.3|Files In Project]
+C:\WINDOWS\system32\msvbvm60.dll=Yes
+C:\WINDOWS\system32\oleaut32.dll=Yes
+C:\WINDOWS\system32\olepro32.dll=Yes
+C:\WINDOWS\system32\asycfilt.dll=Yes
+C:\WINDOWS\system32\stdole2.tlb=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\system32\shlwapi.dll=Yes
+C:\WINDOWS\system32\psapi.dll=Yes
+C:\WINDOWS\system32\COMCTL32.OCX=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\system32\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+D:\Project HerAV\HerAV 1.3.exe=Yes
+D:\Project HerAV\Readme.txt=Yes
+
+[Package|HerAV AntiVirus 1.3|Configure Registry Files]
+Applicable=No
+
+[Package|HerAV AntiVirus 1.3|Configure Remote Servers]
+Applicable=No
+
+[Package|HerAV AntiVirus 1.3|Install Locations]
+D:\Project\HerAV 1.1.exe=$(AppPath)
+C:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\oleaut32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\olepro32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\asycfilt.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\stdole2.tlb=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\shlwapi.dll=$(WinSysPath)
+C:\WINDOWS\system32\psapi.dll=$(WinSysPath)
+C:\WINDOWS\system32\COMCTL32.OCX=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+D:\Project\Readme.txt=$(AppPath)
+D:\Project HerAV\HerAV 1.3.exe=$(AppPath)
+D:\Project HerAV\Readme.txt=$(AppPath)
+
+[Package|HerAV AntiVirus 1.3|Configure Shared Files]
+Applicable=Yes
+D:\Project\HerAV 1.1.exe=No
+D:\Project\Readme.txt=No
+D:\Project HerAV\HerAV 1.3.exe=Yes
+D:\Project HerAV\Readme.txt=Yes
+
+[Package|HerAV AntiVirus 1.3|Distribution]
+Type=multi
+Size=1.44 MB
+Title=HerAV AntiVirus 1.3
+
+[Package|HerAV AntiVirus 1.3|IconGroups]
+Group0=HerAV AntiVirus 1.1
+PrivateGroup0=True
+Parent0=$(Programs)
+Group1=HerAV AntiVirus 1.3
+PrivateGroup1=False
+Parent1=$(Programs)
+
+[Package|HerAV AntiVirus 1.3|HerAV AntiVirus 1.1]
+Icon1="HerAV 1.1.exe"
+Title1=HerAV AntiVirus 1.1
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|HerAV AntiVirus 1.3|Package]
+PackageFolder=D:\Project HerAV\New Folder
+ProjectFolder=D:\Project HerAV\SC HerAV
+ServerSideCab=
+File1=D:\Project HerAV\New Folder\setup.exe
+File2=D:\Project HerAV\New Folder\Setup.Lst
+File3=D:\Project HerAV\New Folder\HerAV 1.CAB
+File4=D:\Project HerAV\New Folder\HerAV 2.CAB
+Handler1=PDWizard.FloppyDplySubWiz
+Handler2=PDWizard.FolderDplySubWiz
+Handler3=PDWizard.WebPostDplySubWiz

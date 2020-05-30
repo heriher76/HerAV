@@ -1,0 +1,10 @@
+FormMain = 161, 92, 945, 560, C, 150, 29, 934, 549, C
+ModFile = 35, 144, 612, 546, C
+ModRegistry = 154, 154, 731, 556, C
+ModScan = 176, 176, 753, 578, C
+ModFormControl = 88, 88, 665, 490, C
+ModProcess = 132, 132, 709, 534, C
+FormAbout = 68, 90, 712, 495, C, 76, 67, 653, 469, C
+FormScan = 5, 66, 744, 468, C, 69, 38, 646, 580, C
+ModCheckSum = 110, 110, 754, 515, C
+ModMain = 110, 110, 687, 512, C
